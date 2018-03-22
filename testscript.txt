@@ -1,2 +1,2 @@
 sample.txt  testscript.txt
-updated text
+updated text123
